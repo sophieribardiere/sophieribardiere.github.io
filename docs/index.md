@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: default
 ---
 
 
+# Présentation
 
 Site en construction !
