@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Cabinet de psychologie"
+title: "Cabinet de psychologie : Sophie Ribardière"
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Sophie Ribardière : cabinet de psychologie
@@ -28,14 +28,12 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username:  jekyll
 
 # Build settings
-#theme: minima
-#plugins:
-#  - jekyll-feed
-
-remote_theme: pages-themes/cayman@v0.2.0
+remote-theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
+  - jekyll-remote-theme
 
+github: [metadata]
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
