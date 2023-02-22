@@ -1,3 +1,1 @@
-# Sophie Ribardière : Cabinet de psycholigie
-
-Site en construction
+# Code pour le site de Sophie Ribardière, psychologue
