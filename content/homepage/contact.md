@@ -6,7 +6,7 @@ header_menu: true
 
 {{<icon class="fa fa-envelope">}}&nbsp;[sophie.ribardiere.psy@gmail.com](mailto:sophie.ribardiere.psy@gmail.com)
 
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
+{{<icon class="fa fa-phone">}}&nbsp;[06 67 49 19 99](tel:+33667491999)
 
 
 
