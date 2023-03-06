@@ -2,6 +2,7 @@
 title: 'Tarification'
 weight: 4
 header_menu: true
+draft : true
 ---
 
 ### Tarif/ Non remboursement
