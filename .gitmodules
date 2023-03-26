@@ -7,6 +7,3 @@
 [submodule "themes/osm"]
 	path = themes/osm
 	url = https://github.com/Hanzei/hugo-component-osm.git
-[submodule "hugo-dpsg"]
-	path = hugo-dpsg
-	url = https://github.com/pfadfinder-konstanz/hugo-dpsg
