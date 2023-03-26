@@ -927,7 +927,7 @@ a.fn-item.active {
       9. Media Queries - Smaller than 1130px
       ========================================================================== */
 
-@media only screen and (max-width: 1130px) {
+@media (max-width: 1130px) {
   .fixed-nav {
     opacity: 1;
     position: fixed;
@@ -1004,7 +1004,7 @@ a.fn-item.active {
       10. Media Queries - Smaller than 500px
       ========================================================================== */
 
-@media only screen and (max-width: 500px) {
+@media (max-width: 500px) {
   .fixed-nav {
     opacity: 1;
     position: fixed;
@@ -1016,6 +1016,10 @@ a.fn-item.active {
     text-align: center;
     padding: 4px;
   }
+  a.fn-item {
+    display: inline;
+    margin-left: 10px;
+  } 
   .post-holder {
     padding-top: 20px;
   }
