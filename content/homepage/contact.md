@@ -5,7 +5,6 @@ weight: 5
 header_menu: true
 ---
 
-Sur rendez-vous uniquement!
 
 {{<icon class="fa fa-envelope">}}&nbsp;[sophie.ribardiere.psy@gmail.com](mailto:sophie.ribardiere.psy@gmail.com)
 

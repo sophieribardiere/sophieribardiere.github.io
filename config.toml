@@ -12,7 +12,7 @@ theme = ["osm", "hugo-scroll"]
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "Sophie Ribardière"
+    copyright = "Sophie Ribardière - n° ADELI 869304051"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "Cabinet de psychologie - Enfants et Adolescents"
@@ -36,5 +36,5 @@ theme = ["osm", "hugo-scroll"]
     hidedesignbyline = true
 
     [params.meta]
-        keywords = "psychologie, enfants, adolescents, poitiers, france"
+        keywords = "psychologue, poitiers, enfants, adolescents, parents, france"
   

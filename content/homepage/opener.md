@@ -1,27 +1,30 @@
 ---
-title: "Présentation"
+title: "Ma pratique en résumé"
 weight: 1
 header_menu: true
-draft : true
 ---
 
-La psychologie du développement est une spécialité de la psychologie qui cherche à comprendre
-comment l’humain se développe. Elle prend en compte tous les domaines du développement
-psychologique : cognitif, affectif, social et langagier. C’est donc une approche intégrative.
-Ma pratique s’appuie sur une diversité d’expériences professionnelles du secteur privé et hospitalier.
-Depuis plusieurs années, j’exerce dans le secteur médico-social où j’accompagne des enfants et des
-adolescents ayant une déficience intellectuelle (avec ou sans troubles associés) et des enfants autistes.
-J’apporte également mon expertise auprès des équipes et des parents.
 
-En parallèle, de mon activité libérale, je continue d’exercer à temps partiel dans ce secteur.
-J’ai suivi différentes formations spécifiques à l’accompagnement des personnes rentrant dans le champ
-du spectre de l’autisme (TSA). Dans ce cadre, ma pratique s’inspire donc du cadre théorique ABA
-(analyse appliquée du comportement) et de la méthode TEACCH (méthode d’éducation structurée pour
-enfants et adultes autistes) mais je ne suis pas psychologue spécialisée ABA.
 
-### Ma pratique en résumé :
-- analyse de la demande
-- évaluation et accompagnement des Troubles du Neuro-Développement (TND)
-- suivis psychologiques individuels d’enfants et d’adolescents (à visée psychoaffectif et/ou
-psychoéducatif)
+
+Psychologue du développement, spécialisée dans les Troubles du Spectre Autistique (TSA).
+- analyse de la demande : comprendre ensemble les besoins et l’histoire de votre enfant puis définir des objectifs
+- évaluation du fonctionnement cognitif
+- habiletés sociales
+- accompagnements psychologiques individuels d’enfants et d’adolescents
 - accompagnements parentaux
+
+##### Pour quelles raisons venir me consulter ?
+
+- votre enfant a des difficultés pour entrer dans les **apprentissages scolaires**
+- votre enfant a des **difficultés relationnelles** avec les autres enfants (ex : il ne sait pas comment se faire des copains/copines, difficulté à gérer les conflits, il ne comprend pas le comportement des autres…)
+- votre enfant a des difficultés pour **comprendre et gérer ses émotions**
+- vous constatez un **changement de comportement** chez votre enfant (tristesse, agitation, sommeil, alimentation, perte de motivation scolaire ou générale)
+- votre enfant traverse une **période difficile** (deuil, séparation…)
+- vous souhaitez des **conseils pour accompagner votre enfant**
+
+
+##### Vous en êtes dans un parcours diagnostic, ce que je peux vous apporter :
+- réaliser des évaluations qui pourront être utiles au centre ressource concerné et me mettre en lien avec eux pour un travail en complémentarité.
+
+N’hésitez pas à me contacter pour toutes questions.
